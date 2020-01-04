@@ -1,5 +1,5 @@
-name: SimpleClans
-main: net.sacredlabyrinth.phaed.simpleclans.SimpleClans
+name: CookClans
+main: me.itzdabbzz.cookclans.CookClans
 version: ${project.version}
 softdepend: [VanishNoPacket, Permissions, PermissionsBukkit, Vault, PermissionsEx, mChat, mChatSuite]
 api-version: '1.13'
